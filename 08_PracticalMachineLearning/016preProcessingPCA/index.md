@@ -1,17 +1,18 @@
 ---
-title       : Preprocessing with Principal Components Analysis (PCA)
-subtitle    : 
-author      : Jeffrey Leek
-job         : Johns Hopkins Bloomberg School of Public Health
-logo        : bloomberg_shield.png
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow   # 
+title: "Preprocessing with Principal Components Analysis (PCA)"
+author: "Jeffrey Leek"
+highlighter: highlight.js
+output: html_document
+job: Johns Hopkins Bloomberg School of Public Health
+logo: bloomberg_shield.png
+mode: selfcontained
+hitheme: tomorrow
+subtitle: null
+framework: io2012
 url:
-  lib: ../../libraries
   assets: ../../assets
-widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+  lib: ../../libraries
+widgets: mathjax
 ---
 
 
